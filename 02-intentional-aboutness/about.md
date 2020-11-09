@@ -1,4 +1,4 @@
-Lida Alice Weisser
+## Lida Alice Weisser
 
 An observer of every day life's details. 
 
