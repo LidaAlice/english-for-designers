@@ -1,6 +1,6 @@
 ## Character & Description
 
-![Letter L typeset in Quentin designed in Adobe Illustrator.](img/letter-l.png)
+![Letter L typeset in Quentin designed in Adobe Illustrator.](letter-l.png)
 
 *L*, Lida Alice Weisser. Designed in Adobe Illustrator.
 
