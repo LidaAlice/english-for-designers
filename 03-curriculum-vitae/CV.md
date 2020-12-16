@@ -6,13 +6,20 @@ An enthusiastic and open minded graphic and media design student, passionate abo
 Effective Communication, Costumer Service, Microsoft office, Adobe programs: Illustrator, Indesign, Photoshop
 
 ## Work experience
+
+**Intern, Scholz & Friends**
+
+NOVEMBER 2020 - PRESENT
+
+Advertisement, research, campaigns, brainstorming
+
 **Receptionist, BOHO CO., Prague**
 
 AUGUST 2019 — PRESENT
 
 Welcoming and informing guests. Responsible for check in and check out processes. Managing the reservation system ASSD. Processing payments. The first point of contact for guests should they have any queries. Assist guests with transportation. 
 
-**English Tutor , Paris**
+**English Tutor, Paris**
 
 JANUARY 2018 — AUGUST 2019
 
