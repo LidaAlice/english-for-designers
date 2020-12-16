@@ -1,6 +1,6 @@
 # LIDA ALICE WEISSER
 
-An enthusiastic and open minded graphic and media design student, passionate about arts of all forms. Always up for new challenges and learning new skills. Constantly looking for ways to improve on both a professional and personal level. 
+An enthusiastic and open minded graphic and media design student, passionate about arts of all forms. Always up for new challenges and learning new skills. Constantly looking for ways to improve on both professional and personal level. 
 
 ## Skills
 Effective Communication, Costumer Service, Microsoft office, Adobe programs: Illustrator, Indesign, Photoshop
