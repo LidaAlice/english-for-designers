@@ -26,10 +26,11 @@ We had also created our own emojis, using our pictures with different facial exp
 ![emojis](./img/emojis.png)
 
 In order to design our desired poster we decided to involve each one of us in the experiment and took the test-questionaire ourselves.
+Example of the questions: **How do you feel when** - You meet your ex on the street?  - You're in a club with friends and you're the only abstitent in the group?  - You lose in a board game 10x in a row?
 
 ![questionaire](./img/questionaire.png)
 
-In the picture below, we can see the final version of our poster. Depicting the temperaments of each member of our team. Using the colored cuts through the heads, you can discover what percentage of each of the four temperaments we carry. (According to the results of the test)
+In the picture below, we can see the final version of our poster. Depicting the temperaments of each member of our team. Using the colored cuts through the heads, you can discover what percentage of each of the four temperaments we carry. (According to the test results)
 
 ![results](./img/results.png)
 
