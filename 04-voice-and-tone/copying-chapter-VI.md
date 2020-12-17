@@ -7,5 +7,14 @@ Yet, throughout the time of humanity, there have been individuals that stepped o
 
 If I were to choose a perfect example of a successful copying, it would be the classical - neoclassical architecture. Which usually denotes architecture which is more or less consciously derived from the principles of Greek and Roman architecture of classical antiquity. And later on its perfected version of Beaux-Arts architecture. Just look at the Parisian Grand Palais, Musée D’Orsay or the Palais Garnier which is like a Corinthian temple dipped in a Rococo palace. You could say that these architectonic gems are a copy of other styles, sewn together. 
 
+And I truly think that in this case, it's more than wonderful that the majectic beauty of antiquity was brought back to later centuries.
+
 ![antique](./img/antique.jpg)
+
+![grand palais](./img/grand-palais.jpg)
+Grand palais
+
+
+![opera](./img/opera.jpg)
+L'Opera
 
