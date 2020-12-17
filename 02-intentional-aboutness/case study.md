@@ -28,3 +28,8 @@ We had also created our own emojis, using our pictures with different facial exp
 In order to design our desired poster we decided to involve each one of us in the experiment and took the test-questionaire ourselves.
 
 ![questionaire](./img/questionaire.png)
+
+In the picture below, we can see the final version of our poster. Depicting the temperaments of each member of our team. Using the colored cuts through the heads, you can discover what percentage of each of the four temperaments we carry. (According to the results of the test)
+
+![results](./img/results.png)
+
