@@ -27,4 +27,4 @@ We had also created our own emojis, using our pictures with different facial exp
 
 In order to design our desired poster we decided to involve each one of us in the experiment and took the test-questionaire ourselves.
 
-![questionaire](./img/questionare.png)
+![questionaire](./img/questionaire.png)
