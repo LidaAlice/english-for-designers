@@ -10,4 +10,6 @@ I also liked taking the time to **think and write about given topics like for ex
 
 Last but not least, it has given me an **opportunity to reflect on myself and my work.**
 
+Thank you, Justin
+
 
