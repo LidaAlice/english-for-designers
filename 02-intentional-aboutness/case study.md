@@ -16,7 +16,7 @@
  
  
  
- Here's a basic sketch of our idea
+ Here's a basic sketch of our idea. (Anger, Sadness, Whatever, Joy)
 
 ![sketch](./img/sketch.png)
 
