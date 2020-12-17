@@ -1,4 +1,5 @@
 Despite my several absenses in a class, I really enjoyed this course and also truly appreciate your constant motivating feedback and appreciation given to each of the students. I feel inspired by the way you praise others for even a slight progress or a good work.
+
 From our classes together, I've gained **a new knowledge of working with Slack and Github.**
 
 And that also somehow expended my mind into looking at **words from a more of a technical point of view.**
