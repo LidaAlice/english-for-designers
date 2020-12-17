@@ -14,6 +14,7 @@
 
  ![temperament-chart](./temperament-chart.jpg)
  
+ Here's a basic sketch of our idea
 
 ![sketch](./img/sketch.png)
 
