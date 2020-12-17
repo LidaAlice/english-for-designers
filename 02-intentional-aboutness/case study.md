@@ -10,7 +10,7 @@
 
  So as the title of this case study suggests, we decided to create a poster which would uncover your temperament. Based on the Hippocrates' temperament typology circle, extended by the studies of I. P. Pavlov and C. G. Jung, we created a questionnaire with a specific set of answers which would by the end result in discovery of your own temperament. Of course we were aware that no one's personality is strictly set on only one of the types. Therefore we agreed to show each temperament of one individual using a percentage. 
  
- The temperament chart
+ **The temperament chart**
 
  ![temperament-chart](./temperament-chart.jpg)
  
